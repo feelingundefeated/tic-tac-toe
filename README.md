@@ -4,7 +4,6 @@ The game of TicTacToe, while simple for us to understand, has quite a few challe
 
 As you may be realizing now, despite the simplicity of TicTacToe, there are many smaller intricacies that we have to deal with and handle for that we just take for given when we play on a piece of paper. With any task like these where there are many things to be done, we need to just break down the entire objective, either in our head or in some notes. In this case, we know we need some basic things:
 
-
 (1) Visualize the game somehow.
 
 (2) Allow players to enter moves.
